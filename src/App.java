@@ -9,8 +9,11 @@ public class App {
         // day2.solveFirst();
         // day2.solvesecond();
 
-        Day3 day3 = new Day3();
+        // Day3 day3 = new Day3();
         // day3.solvefirst();
-        day3.solvesecond();
+        //day3.solvesecond();
+
+        Day4 day4 = new Day4();
+        day4.solvefirst();
     }
 }
